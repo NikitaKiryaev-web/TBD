@@ -1,0 +1,24 @@
+D:\Microsoft VS Projects\TBD_AIR\bin\Debug\Database_AIR.mdf
+D:\Microsoft VS Projects\TBD_AIR\bin\Debug\Database_AIR_log.ldf
+D:\Microsoft VS Projects\TBD_AIR\bin\Debug\TBD_AIR.exe.config
+D:\Microsoft VS Projects\TBD_AIR\bin\Debug\TBD_AIR.exe
+D:\Microsoft VS Projects\TBD_AIR\bin\Debug\TBD_AIR.pdb
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.Form1.resources
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.exe
+D:\Microsoft VS Projects\TBD_AIR\obj\Debug\TBD_AIR.pdb
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\bin\Debug\Database_AIR.mdf
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\bin\Debug\Database_AIR_log.ldf
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\bin\Debug\TBD_AIR.exe.config
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\bin\Debug\TBD_AIR.exe
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\bin\Debug\TBD_AIR.pdb
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.csprojAssemblyReference.cache
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.Form1.resources
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.Properties.Resources.resources
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.csproj.GenerateResource.cache
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.csproj.CoreCompileInputs.cache
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.exe
+D:\dev\KursovayaBD\TBD_AIR\TBD_AIR\obj\Debug\TBD_AIR.pdb
